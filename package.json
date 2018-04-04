@@ -1,0 +1,15 @@
+{
+  "name": "ava-iterm2-no-1337-img",
+  "version": "1.0.0",
+  "description": "bug report",
+  "main": "working.js",
+  "dependencies": {
+    "ava": "^0.25.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
